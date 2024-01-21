@@ -62,5 +62,6 @@ function initMap() {
         center: {lat: 37.218665792 , lng: -80.41749833},
         zoom: 15.2,
         disableDefaultUI: true,
+        draggable: false,
     });
 }
